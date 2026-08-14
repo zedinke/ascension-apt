@@ -1,0 +1,181 @@
+---
+File: DEP-11
+Version: '1.0'
+Origin: apex-apps
+---
+Type: desktop-application
+ID: live.ascension.studio
+Package: ascension-studio
+ProjectLicense: LicenseRef-proprietary
+Name:
+  C: Ascension Studio
+Summary:
+  C: Streamer társalkalmazás — jelenetek, hang, csatornák és chat egy helyen
+Description:
+  C: >-
+    <p>
+          Az Ascension Studio egy felület a streameléshez: a jelenetek, a hang, a
+          csatornák és a chat egy helyen kezelhető. Az OBS-t nem váltja ki, hanem
+          vezérli — külön folyamatként, obs-websocketen keresztül —, így a
+          meglévő OBS-beállítások érintetlenek maradnak.
+        </p>
+    <p>
+          A többcsatornás adás az Ascension MultiRTMP OBS-bővítmény dolga; ez az
+          alkalmazás azt nem tartalmazza.
+        </p>
+Developer:
+  id: live.ascension
+  name:
+    C: Ascension Studio
+Categories:
+- AudioVideo
+Url:
+  homepage: https://ascension.live
+Icon:
+  cached:
+  - name: live.ascension.studio.png
+    width: 48
+    height: 48
+  - name: live.ascension.studio.png
+    width: 64
+    height: 64
+  - name: live.ascension.studio.png
+    width: 64
+    height: 64
+    scale: 2
+  - name: live.ascension.studio.png
+    width: 128
+    height: 128
+  - name: live.ascension.studio.png
+    width: 128
+    height: 128
+    scale: 2
+  stock: ascension-studio
+Launchable:
+  desktop-id:
+  - Ascension Studio.desktop
+---
+Type: desktop-application
+ID: live.ascension.epic
+Package: ascension-epic
+ProjectLicense: LicenseRef-proprietary
+Name:
+  C: Epic Games Store
+Summary:
+  C: Az Epic Games Store Wine alatt — az első indítás telepíti
+Description:
+  C: >-
+    <p>
+          Az Epic Games Store üzembe helyezése Wine alatt: létrehozza a Wine
+          prefixet, felteszi a szükséges betűkészleteket, majd letölti és
+          telepíti az Epic hivatalos telepítőjét.
+        </p>
+    <p>
+          Ez a csomag magát az Epic Games Store-t NEM tartalmazza — azt az
+          első indításkor tölti le az Epic saját szerveréről. Ehhez
+          internetkapcsolat kell, és a művelet néhány percig tart; addig egy
+          terminálablak mutatja, hol jár. A későbbi indítások már közvetlenül
+          a launchert nyitják meg.
+        </p>
+    <p>
+          Az Epic Online Services telepítéséről is gondoskodik, ami a
+          crossplayhez, a teljesítményekhez és az overlayhez kell. Ennek
+          telepítőjét a launcher tölti le az első önfrissítésekor, ezért az
+          Epic Online Services a soron következő indításkor kerül fel — nem
+          rögtön az elsőnél.
+        </p>
+    <p>
+          A játékok és a Wine prefix alapértelmezés szerint a felhasználó
+          Games könyvtárába kerülnek. Ha a rendszerlemez kicsi, ez átállítható
+          az /etc/ascension/epic.conf fájlban, vagy felhasználónként a
+          ~/.config/ascension/epic.conf fájlban, az ASCENSION_GAMES_DIR
+          értékével.
+        </p>
+    <p>
+          Az Ascension Linux nem áll kapcsolatban az Epic Games, Inc.
+          vállalattal, és nem is terjeszti a szoftverét; ez a csomag csak a
+          Linux alatti üzembe helyezést végzi el.
+        </p>
+Developer:
+  id: live.ascension
+  name:
+    C: Ascension Studio
+Categories:
+- Game
+Keywords:
+  C:
+  - epic
+  - games
+  - store
+  - fortnite
+  - launcher
+  - jaték
+  - bolt
+Url:
+  homepage: https://ascension.live
+Icon:
+  cached:
+  - name: live.ascension.epic.png
+    width: 64
+    height: 64
+  - name: live.ascension.epic.png
+    width: 128
+    height: 128
+  stock: ascension-epic
+Launchable:
+  desktop-id:
+  - ascension-epic.desktop
+ContentRating:
+  oars-1.1: {}
+---
+Type: desktop-application
+ID: hu.ascensionstudio.game-manager
+Package: ascension-studio-game-manager
+ProjectLicense: LicenseRef-proprietary
+Name:
+  C: Ascension Studio Game Manager
+Summary:
+  C: Játékszerver-kezelő — indítás, beállítások, mentések, ütemezés egy felületen
+Description:
+  C: >-
+    <p>
+          Asztali kliens játékszerverek üzemeltetéséhez: szerverek indítása és
+          leállítása, beállítások, mentések, ütemezett feladatok és naplók egy
+          felületen. A gépeket a Manager készíti fel és tartja karban — nincs
+          szükség kézi SSH-munkamenetre vagy Linux-ismeretre hozzá.
+        </p>
+    <p>
+          A szervergépeken futó összetevők (ügynök, ütemező, központi API) külön
+          részei a rendszernek; ez az alkalmazás a kezelőfelület.
+        </p>
+Developer:
+  id: live.ascension
+  name:
+    C: Ascension Studio
+Categories:
+- System
+Url:
+  homepage: https://ascensionstudio.hu
+Icon:
+  cached:
+  - name: hu.ascensionstudio.game-manager.png
+    width: 48
+    height: 48
+  - name: hu.ascensionstudio.game-manager.png
+    width: 64
+    height: 64
+  - name: hu.ascensionstudio.game-manager.png
+    width: 64
+    height: 64
+    scale: 2
+  - name: hu.ascensionstudio.game-manager.png
+    width: 128
+    height: 128
+  - name: hu.ascensionstudio.game-manager.png
+    width: 128
+    height: 128
+    scale: 2
+  stock: tauri-app
+Launchable:
+  desktop-id:
+  - Ascension Studio Game Manager.desktop

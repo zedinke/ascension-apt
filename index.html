@@ -1,0 +1,34 @@
+<!doctype html><html lang="hu"><meta charset="utf-8">
+<title>Ascension Linux — csomagtároló</title>
+<style>
+ body{background:#071425;color:#CBF0FF;font:16px/1.6 system-ui,sans-serif;
+      max-width:52rem;margin:4rem auto;padding:0 1.5rem}
+ h1{color:#C1E3FE;font-weight:700} code,pre{background:#192A3C;color:#CBF0FF;
+      border:1px solid #4B6A85;border-radius:8px}
+ code{padding:.1rem .4rem} pre{padding:1rem;overflow-x:auto}
+ a{color:#8AC4EC}
+ table{border-collapse:collapse;margin:1rem 0} td{padding:.3rem 1.2rem .3rem 0;
+      vertical-align:top;border-bottom:1px solid #24384D}
+</style>
+<h1>Ascension Linux csomagtároló</h1>
+<p>Ez a rendszer egyedi részeinek és a saját alkalmazásainknak a
+   frissítési forrása. Ascension Linux alatt már be van állítva — nincs
+   teendő, az <code>apt upgrade</code> innen frissít.</p>
+<table><tr><td><code>main</code></td><td>a rendszer egyedi részei — arculat, widgetek, parancsok</td><td>27 csomag</td></tr><tr><td><code>apps</code></td><td>az Ascension saját alkalmazásai</td><td>9 csomag</td></tr></table>
+<h2>Kézi felvétel más rendszeren</h2>
+<pre>sudo curl -fsSLo /usr/share/keyrings/ascension-archive-keyring.gpg \
+     https://zedinke.github.io/ascension-apt/ascension-archive-keyring.gpg
+
+sudo tee /etc/apt/sources.list.d/ascension.sources &lt;&lt;'EOF2'
+Types: deb
+URIs: https://zedinke.github.io/ascension-apt
+Suites: apex
+Components: main apps
+Architectures: amd64
+Signed-By: /usr/share/keyrings/ascension-archive-keyring.gpg
+EOF2
+
+sudo apt update</pre>
+<p>Kulcs ujjlenyomata: <code>3356FFD5B952618AF33D27D7861E1AB095462195</code></p>
+<p>Csomagok összesen: 36 · Utolsó kiadás: 26.04.202608141239</p>
+</html>

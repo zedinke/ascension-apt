@@ -1,0 +1,648 @@
+Package: ascension-boot-theme
+Architecture: all
+Version: 26.04.202608110056
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 3824
+Depends: plymouth, sddm
+Filename: pool/main/a/ascension-boot-theme/ascension-boot-theme_26.04.202608110056_all.deb
+Size: 3284568
+MD5sum: 24adacc521961d0ba7efb512de3d7c90
+SHA1: 64854ec8cb082bf57ccc1f56784f1f21b3a27720
+SHA256: e7d23de96e83e912cacc8f84cf4ebffe4e7f9e96154f14d11294654d171b111f
+SHA512: 48a658a6ff2189cd3d199d7beb7df54d5ddcd62127244b22b653fc10d0f1d10f8e6dee68876de49e4c2b6f519204e0995958c0457c6049c3e4577c46c4302f73
+Homepage: https://ascensionlinux.org
+Description: Ascension indítási arculat — GRUB, Plymouth, SDDM
+ Az indítás három képernyője: a rendszerbetöltő menüje, a betöltés alatti
+ animáció, és a bejelentkező képernyő. Mindhárom ugyanazt a színvilágot és
+ tipográfiát használja, hogy az indulás egyetlen összefüggő folyamatnak
+ látsszon.
+
+Package: ascension-boot-theme
+Architecture: all
+Version: 26.04.202608110058
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 3824
+Depends: plymouth, sddm
+Filename: pool/main/a/ascension-boot-theme/ascension-boot-theme_26.04.202608110058_all.deb
+Size: 3284564
+MD5sum: 1820732ec4af6e8a7422b3f9dade35c4
+SHA1: 28fe9ff0690e84433131e4c9ebd30b0171862864
+SHA256: 7607c654a1beb55e1e574c34a08d7cbd7cd8977249e8de2b0b3405399cd343f0
+SHA512: a08e8d3b26ae61ed1270448ddef0089ef342ab794cc3e0eb75a94aaaab4a12b2c0de5474fae674622434933a2a97d79d4283c66cf88afb9f3e5d1aa369e5695d
+Homepage: https://ascensionlinux.org
+Description: Ascension indítási arculat — GRUB, Plymouth, SDDM
+ Az indítás három képernyője: a rendszerbetöltő menüje, a betöltés alatti
+ animáció, és a bejelentkező képernyő. Mindhárom ugyanazt a színvilágot és
+ tipográfiát használja, hogy az indulás egyetlen összefüggő folyamatnak
+ látsszon.
+
+Package: ascension-boot-theme
+Architecture: all
+Version: 26.04.202608110118
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 3824
+Depends: plymouth, sddm
+Filename: pool/main/a/ascension-boot-theme/ascension-boot-theme_26.04.202608110118_all.deb
+Size: 3284562
+MD5sum: bdc3dfe9510a2ea14ea9d29e45f9ee58
+SHA1: 6c1a022f6346c4a5a31aaef56c72fe7c39fcd74f
+SHA256: 9a86a7bdad510f01df9c2ff83939e0adb8aaa9795c08c40171cde00e9f254946
+SHA512: 6931c5087e961ee79257fd13658605ad568e95a68578d449deae86b485df8822e62d90a62b3a64bda94f961659614d10c4e3704ba62ad90309988c93e77cbfad
+Homepage: https://ascensionlinux.org
+Description: Ascension indítási arculat — GRUB, Plymouth, SDDM
+ Az indítás három képernyője: a rendszerbetöltő menüje, a betöltés alatti
+ animáció, és a bejelentkező képernyő. Mindhárom ugyanazt a színvilágot és
+ tipográfiát használja, hogy az indulás egyetlen összefüggő folyamatnak
+ látsszon.
+
+Package: ascension-branding
+Architecture: all
+Version: 26.04.202608110056
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 21428
+Depends: qml6-module-qtquick, plasma-desktop
+Filename: pool/main/a/ascension-branding/ascension-branding_26.04.202608110056_all.deb
+Size: 18448642
+MD5sum: 3cc3ce0c0a18cb8697186eaac7312e3f
+SHA1: 27333a4657e2bdde4c1510149aac4055d1ff1433
+SHA256: d4676a1f994c5670ad11196576ee7ce67c9c4809baae76416c2faa642361255a
+SHA512: e0c1189b48903db4b6903abd9a6560008af45ecfa1c6f0cc1389d585d1672fa73ca9f89f46e0c87342bb50ce05e55137341625fca7707c849a623f0e51f7cdf2
+Homepage: https://ascensionlinux.org
+Description: Ascension megjelenés — Plasma téma, háttérképek, ikonok
+ A rendszer arculata: a Plasma asztali témája (üveghatású panelek és
+ widgetek), a színséma, az ablakkeret-téma, a Kvantum stílus, az
+ ikonkészlet, a háttérképek és a logók.
+ .
+ A megjelenés nem egy meglévő téma átszínezése: a felületek 9-részes
+ FrameSvg rajzokból készültek, a színek pedig egyetlen forrásból
+ (palette.json) származnak.
+
+Package: ascension-branding
+Architecture: all
+Version: 26.04.202608110058
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 21428
+Depends: qml6-module-qtquick, plasma-desktop
+Filename: pool/main/a/ascension-branding/ascension-branding_26.04.202608110058_all.deb
+Size: 18448640
+MD5sum: 05be6132906eb8d02b09b4a17fe9cfb8
+SHA1: f12675bee39bbac5da3ab90715e7d87cffba1b39
+SHA256: f3a56031283fd1b0c078f42f74553b20832346576ae26c2855a87144828180ff
+SHA512: b9a369519db65f82e8800c4c23621f49453c5d7be7860ec7302b9c7024f78cb89887089dc7570c0bc8642624aec126145a6c4440af1aa72f4f34245cbe803a6a
+Homepage: https://ascensionlinux.org
+Description: Ascension megjelenés — Plasma téma, háttérképek, ikonok
+ A rendszer arculata: a Plasma asztali témája (üveghatású panelek és
+ widgetek), a színséma, az ablakkeret-téma, a Kvantum stílus, az
+ ikonkészlet, a háttérképek és a logók.
+ .
+ A megjelenés nem egy meglévő téma átszínezése: a felületek 9-részes
+ FrameSvg rajzokból készültek, a színek pedig egyetlen forrásból
+ (palette.json) származnak.
+
+Package: ascension-branding
+Architecture: all
+Version: 26.04.202608110118
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 21428
+Depends: qml6-module-qtquick, plasma-desktop
+Filename: pool/main/a/ascension-branding/ascension-branding_26.04.202608110118_all.deb
+Size: 18448610
+MD5sum: 8601bc75fd62458cfe1734f483eacf83
+SHA1: facf37ede1e2e325d46d44bd6fe98f50d0e5a464
+SHA256: 58b5f7035144fd6d86b6bb1e5825e5a53b57a373f994eb6f020115c452276123
+SHA512: f13548ffa5fede1f2d2cfcbd3fdcf8c764aae6ed8a7491c819e9a8e20acd81e95e90222f6deef78e0cc08f1abc7adb27b06283d0e60036309eacc292827d5bcb
+Homepage: https://ascensionlinux.org
+Description: Ascension megjelenés — Plasma téma, háttérképek, ikonok
+ A rendszer arculata: a Plasma asztali témája (üveghatású panelek és
+ widgetek), a színséma, az ablakkeret-téma, a Kvantum stílus, az
+ ikonkészlet, a háttérképek és a logók.
+ .
+ A megjelenés nem egy meglévő téma átszínezése: a felületek 9-részes
+ FrameSvg rajzokból készültek, a színek pedig egyetlen forrásból
+ (palette.json) származnak.
+
+Package: ascension-decoration
+Architecture: amd64
+Version: 26.04.202608110056
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 108
+Depends: kwin-common
+Filename: pool/main/a/ascension-decoration/ascension-decoration_26.04.202608110056_amd64.deb
+Size: 18834
+MD5sum: e74c818c9d4a46df9e2d829fd2ac5e08
+SHA1: 562450f5c22f79547392d4d4655eae681cb19a10
+SHA256: 69bcb287d0842c3930831e40b60e3a4cb75a11a0d7f09daea4d1bc2a61c19789
+SHA512: 395f5672ada4bcfd9b9a6a277101e7948f2485a1ef259628bafa8400b08688acc8d463e02b530803ea5be80660431f67aa8678e10dc03b998d22cca87f442ad5
+Homepage: https://ascensionlinux.org
+Description: Ascension ablakdekoráció (KWin bővítmény)
+ A címsor és az ablakkeret rajzolását végző KWin-bővítmény. Ez az egyetlen
+ lefordított összetevő a rendszerben, ezért — a többi arculati csomaggal
+ ellentétben — processzorarchitektúrához kötött.
+
+Package: ascension-decoration
+Architecture: amd64
+Version: 26.04.202608110058
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 108
+Depends: kwin-common
+Filename: pool/main/a/ascension-decoration/ascension-decoration_26.04.202608110058_amd64.deb
+Size: 18836
+MD5sum: 420b65191bb0e3c2c30ef549ab6bb1a5
+SHA1: 7a5af1dcaf944eaaa8b4bda6fac5d0ab297e40c1
+SHA256: e8258df32ac31e36b5b34ce314023e5f6a70e95719accf5ee73adf4bd38ae978
+SHA512: 45e4d67ffc78d070486efcd438104f8d6c9538ff6184abe44e8d0abf45a0fe1adee59b20e8240f67261e0a1687f5840fb704fb1e50d6ffb5dda5bd54890cefb9
+Homepage: https://ascensionlinux.org
+Description: Ascension ablakdekoráció (KWin bővítmény)
+ A címsor és az ablakkeret rajzolását végző KWin-bővítmény. Ez az egyetlen
+ lefordított összetevő a rendszerben, ezért — a többi arculati csomaggal
+ ellentétben — processzorarchitektúrához kötött.
+
+Package: ascension-decoration
+Architecture: amd64
+Version: 26.04.202608110118
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 108
+Depends: kwin-common
+Filename: pool/main/a/ascension-decoration/ascension-decoration_26.04.202608110118_amd64.deb
+Size: 18838
+MD5sum: b49a6f1a6b45fbb661cfe253ff81e572
+SHA1: ec791291c36f58d58dd21b92f97e0630be3c4f6f
+SHA256: bfd2a65048637446826ce39d66644a3891e6eaabbf6fe11f2bdfb5fef50e39e5
+SHA512: a3e5656370fd99ff734c19554c21159472cfbfd8ef10fad007dabd6b1aaeeb538c7f0063c9135d32a01d1a36561d1a63506c5a03f2cb3d0e417aa7f84a795fec
+Homepage: https://ascensionlinux.org
+Description: Ascension ablakdekoráció (KWin bővítmény)
+ A címsor és az ablakkeret rajzolását végző KWin-bővítmény. Ez az egyetlen
+ lefordított összetevő a rendszerben, ezért — a többi arculati csomaggal
+ ellentétben — processzorarchitektúrához kötött.
+
+Package: ascension-desktop
+Architecture: all
+Version: 26.04.202608110056
+Priority: optional
+Section: metapackages
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 4
+Depends: ascension-keyring, ascension-branding, ascension-decoration,
+ ascension-plasmoids, ascension-boot-theme, ascension-tools,
+ ascension-settings, ascension-docs
+Filename: pool/main/a/ascension-desktop/ascension-desktop_26.04.202608110056_all.deb
+Size: 810
+MD5sum: d25870234b56b2f7f403729ffde80678
+SHA1: e6d76b301fc2b1b900c039c5f650ff2240c713b1
+SHA256: cec94517b571d65edf889712e39aec8ab7d4560d01d924694663ae933ee37691
+SHA512: 9cc01e445f43e952e8a68f13a60c665b97eb6a2e854a1235e5a747cdbcd48e7640797c3d045d5bc8bb39607212a0112a4373900bbc1a268af4a3d2278491d933
+Homepage: https://ascensionlinux.org
+Description: Ascension Linux asztali rendszer (gyűjtőcsomag)
+ Ez a csomag maga semmit nem tartalmaz: csak összefogja a rendszer összes
+ egyedi részét. Amíg fent van, az "apt upgrade" minden Ascension-összetevőt
+ frissen tart.
+ .
+ Ha eltávolítod, a rendszer működik tovább, de az egyedi részek nem
+ frissülnek automatikusan.
+
+Package: ascension-desktop
+Architecture: all
+Version: 26.04.202608110058
+Priority: optional
+Section: metapackages
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 4
+Depends: ascension-keyring, ascension-branding, ascension-decoration,
+ ascension-plasmoids, ascension-boot-theme, ascension-tools,
+ ascension-settings, ascension-docs
+Filename: pool/main/a/ascension-desktop/ascension-desktop_26.04.202608110058_all.deb
+Size: 806
+MD5sum: 081ca731048010a4d58fc73943825d9f
+SHA1: 22ac8bf57cb5a8c374d5faf05a1c107c726a742a
+SHA256: 6c3bc8d3d5b64c1abbb4ceedb2811103d935ea122275d283374b424d042ba8fe
+SHA512: 33c31618a58a64b7e5b76bd296ffd0ea81342165a29a4893e4d596e082152651db88076aa64719ed46a64fab10811bd2977b41348f119bb63789b60b66350cb1
+Homepage: https://ascensionlinux.org
+Description: Ascension Linux asztali rendszer (gyűjtőcsomag)
+ Ez a csomag maga semmit nem tartalmaz: csak összefogja a rendszer összes
+ egyedi részét. Amíg fent van, az "apt upgrade" minden Ascension-összetevőt
+ frissen tart.
+ .
+ Ha eltávolítod, a rendszer működik tovább, de az egyedi részek nem
+ frissülnek automatikusan.
+
+Package: ascension-desktop
+Architecture: all
+Version: 26.04.202608110118
+Priority: optional
+Section: metapackages
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 4
+Depends: ascension-keyring, ascension-branding, ascension-decoration,
+ ascension-plasmoids, ascension-boot-theme, ascension-tools,
+ ascension-settings, ascension-docs
+Filename: pool/main/a/ascension-desktop/ascension-desktop_26.04.202608110118_all.deb
+Size: 810
+MD5sum: 274d89c05a8f13092ba8327e6a686f81
+SHA1: ebed22f6c3d20accf21fcd807ff38c113da93b12
+SHA256: 6298281bbcd005d146e357d6b50b252df3e0bdc6f570b2b604223d18d7b3a6c6
+SHA512: d93d5d617100ee23c8623d722121f6021e538fd9a0d71b107f706d01404c37b1a1bdd1b6e934e9fe9e20ee161a1057f64dcacb83d39b01a294f33e0e6b7b22e3
+Homepage: https://ascensionlinux.org
+Description: Ascension Linux asztali rendszer (gyűjtőcsomag)
+ Ez a csomag maga semmit nem tartalmaz: csak összefogja a rendszer összes
+ egyedi részét. Amíg fent van, az "apt upgrade" minden Ascension-összetevőt
+ frissen tart.
+ .
+ Ha eltávolítod, a rendszer működik tovább, de az egyedi részek nem
+ frissülnek automatikusan.
+
+Package: ascension-docs
+Architecture: all
+Version: 26.04.202608110056
+Priority: optional
+Section: doc
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 48
+Filename: pool/main/a/ascension-docs/ascension-docs_26.04.202608110056_all.deb
+Size: 6760
+MD5sum: a8274aaf15f32edbb00a5f4b6395e3f9
+SHA1: 8f96dcd693887143cd0bb2f5a77bd16d2115faa4
+SHA256: cf55370e6f55c2ef46dbe5b12bfcfbb137083998d6eeefff46ed8462b7f5fde6
+SHA512: 31ce7bdf53220fedc7fa5a7b983a27bd2cd87854dd71eef485e5c34d1900e3a2f3ec53d24195b49d859a9471095f34b532c822ac6733a40f9b026e781c7ea08a
+Homepage: https://ascensionlinux.org
+Description: Ascension támogatás és kiadási megjegyzések
+ A rendszer beépített dokumentációja: mit tartalmaz, hogyan működnek a
+ profilok, mit tud a helyi AI asszisztens — és egy őszinte "ismert
+ korlátok" fejezet arról, mi az, ami még nem tökéletes.
+ .
+ A leírás a gépen van, nem az interneten: hálózat nélkül is elolvasható.
+
+Package: ascension-docs
+Architecture: all
+Version: 26.04.202608110058
+Priority: optional
+Section: doc
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 48
+Filename: pool/main/a/ascension-docs/ascension-docs_26.04.202608110058_all.deb
+Size: 6764
+MD5sum: d06dde3140a86cd124cadae1a5f536c9
+SHA1: f06918f5a2d05dc975537cfb4301cf1808ce470e
+SHA256: db73b15ed36329bd93bdc59232165876fe9cb14f1311c14039fb922095793032
+SHA512: e9a05268a3a4657845f12845b2b7a42f2d19db7859c9fa20d797d6d6fffe9efb91c27d58ffc66958e478de6124fc2cc4c33787ae0f40852582c29f93b4e5fba9
+Homepage: https://ascensionlinux.org
+Description: Ascension támogatás és kiadási megjegyzések
+ A rendszer beépített dokumentációja: mit tartalmaz, hogyan működnek a
+ profilok, mit tud a helyi AI asszisztens — és egy őszinte "ismert
+ korlátok" fejezet arról, mi az, ami még nem tökéletes.
+ .
+ A leírás a gépen van, nem az interneten: hálózat nélkül is elolvasható.
+
+Package: ascension-docs
+Architecture: all
+Version: 26.04.202608110118
+Priority: optional
+Section: doc
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 52
+Filename: pool/main/a/ascension-docs/ascension-docs_26.04.202608110118_all.deb
+Size: 7584
+MD5sum: 0d2fd8710148814deb8aad0edc544663
+SHA1: e8fc1a98199510073dcea093834f8419d89c70fe
+SHA256: e2ed5c567d75ec563d0215e0bebf455733072e89b7d2d5d5aee53636c377b598
+SHA512: 88ccd07dcb04d1c3b873fd8cdfff81ddb2f38cf2e0f8c17c411ec5f996847972ab1bb2bbd3b58d5c45e1c31e00f01fa834a5edbd02f3e69ae563bb0fc184538c
+Homepage: https://ascensionlinux.org
+Description: Ascension támogatás és kiadási megjegyzések
+ A rendszer beépített dokumentációja: mit tartalmaz, hogyan működnek a
+ profilok, mit tud a helyi AI asszisztens — és egy őszinte "ismert
+ korlátok" fejezet arról, mi az, ami még nem tökéletes.
+ .
+ A leírás a gépen van, nem az interneten: hálózat nélkül is elolvasható.
+
+Package: ascension-keyring
+Architecture: all
+Version: 26.04.202608110058
+Priority: important
+Section: misc
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 36
+Filename: pool/main/a/ascension-keyring/ascension-keyring_26.04.202608110058_all.deb
+Size: 1630
+MD5sum: 24006b951ae9ba89da3ffab4a69ddda5
+SHA1: deb5b0252ae25b5810aafc90d5890b08f7653e91
+SHA256: dd071779029013cc442447b646c049da1563aadf1a8161b91b8c28e33f8a263d
+SHA512: 3d86c2216a220d98ab52ed2f37a0416468c220eacc9310cb74cf323ba5a505103c512836578ed9c5d0c2ee978a6745039f8e276f36821edfeb4892f3da5e9067
+Homepage: https://ascensionlinux.org
+Description: Ascension Linux csomagtároló kulcsa és forrásbejegyzése
+ Ez a csomag teszi lehetővé, hogy a rendszer frissüljön. Két dolgot ad:
+ a tároló nyilvános aláírókulcsát, amivel az apt ellenőrzi, hogy a
+ csomagok tényleg tőlünk jönnek, és a forrásbejegyzést, ami megmondja,
+ hol keresse őket.
+ .
+ A nyilvános kulccsal ellenőrizni lehet, aláírni nem — az aláíráshoz
+ való titkos kulcs sosem hagyja el a fejlesztői gépet.
+
+Package: ascension-keyring
+Architecture: all
+Version: 26.04.202608110118
+Priority: important
+Section: misc
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 36
+Filename: pool/main/a/ascension-keyring/ascension-keyring_26.04.202608110118_all.deb
+Size: 1634
+MD5sum: 2625aa16589716284ff4c3220ce08b49
+SHA1: f18ca712f1b7612066692071bc3c6a0d7a5cf6b2
+SHA256: 7ab67fcb7766c2f71eee3736bdf275848cb915a0e753d3ac752146b42d6543bf
+SHA512: 9b370daa2d858ca43fe1ba52d8c87bb25edc8157014232a2d97ff78ab5608f749aa673b1ad4a6504315b6a671e4c342ef14414117d2e22882ce7adedfde5f053
+Homepage: https://ascensionlinux.org
+Description: Ascension Linux csomagtároló kulcsa és forrásbejegyzése
+ Ez a csomag teszi lehetővé, hogy a rendszer frissüljön. Két dolgot ad:
+ a tároló nyilvános aláírókulcsát, amivel az apt ellenőrzi, hogy a
+ csomagok tényleg tőlünk jönnek, és a forrásbejegyzést, ami megmondja,
+ hol keresse őket.
+ .
+ A nyilvános kulccsal ellenőrizni lehet, aláírni nem — az aláíráshoz
+ való titkos kulcs sosem hagyja el a fejlesztői gépet.
+
+Package: ascension-keyring
+Architecture: all
+Version: 26.04.202608121132
+Priority: important
+Section: misc
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 36
+Filename: pool/main/a/ascension-keyring/ascension-keyring_26.04.202608121132_all.deb
+Size: 1784
+MD5sum: 6e0665dfd1a4d9469b5ce56347d326fc
+SHA1: 0adea5ce15902e3656b125cd3b85ff3cb1f788b5
+SHA256: 99028e7feb84acac06d3d40420f6c245784f575311abd566c8e3e0daf83848d5
+SHA512: ce3be93194ec4527cc6f2ce34de201f3d726dfa812fa13b1fc58ff0b8a91196d7d04630b790958af4e8dbc94226fbb11e40dc858d29d84203eb961593d491274
+Homepage: https://ascensionlinux.org
+Description: Ascension Linux csomagtároló kulcsa és forrásbejegyzése
+ Ez a csomag teszi lehetővé, hogy a rendszer frissüljön. Két dolgot ad:
+ a tároló nyilvános aláírókulcsát, amivel az apt ellenőrzi, hogy a
+ csomagok tényleg tőlünk jönnek, és a forrásbejegyzést, ami megmondja,
+ hol keresse őket.
+ .
+ A nyilvános kulccsal ellenőrizni lehet, aláírni nem — az aláíráshoz
+ való titkos kulcs sosem hagyja el a fejlesztői gépet.
+
+Package: ascension-plasmoids
+Architecture: all
+Version: 26.04.202608122031
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 336
+Depends: plasma-workspace
+Filename: pool/main/a/ascension-plasmoids/ascension-plasmoids_26.04.202608122031_all.deb
+Size: 44012
+MD5sum: b53570d1141824cb5a0825bdd0f47cb6
+SHA1: b5cc2c5db496195b352e89077780f9400b596514
+SHA256: 2d1ad8398b03b8eeee48317e27e2cbedf51b2e291001878b1ed63d5e11d92253
+SHA512: b35d37ec76af5d1766bcf902cf5e16c50e416667032c975f5615a21361bf896ecea441e07430e1c7ccc0ee124482ccd90b022d6761ae6b7e10924b79eca02a9e
+Homepage: https://ascensionlinux.org
+Description: Ascension asztali widgetek
+ A rendszer saját widgetei: a körkijelzők (processzor, memória, lemez,
+ hálózat), az óra időjárással, a rendszerbemutató, a frissítéskezelő, és
+ az Aegis AI asszisztens ablaka.
+ .
+ Mindegyik a mért adathoz illő ábrázolást használ — a memória oszlopokat,
+ a hálózat görbét, a lemez gyűrűt —, nem egyforma körökkel jeleníti meg a
+ különböző természetű adatokat.
+
+Package: ascension-plasmoids
+Architecture: all
+Version: 26.04.202608122038
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 340
+Depends: plasma-workspace
+Filename: pool/main/a/ascension-plasmoids/ascension-plasmoids_26.04.202608122038_all.deb
+Size: 44568
+MD5sum: a23215ef5adda00bbe18391887defa4c
+SHA1: 40e0623db21519e7dc1c19f6ec59b5d35a9cd912
+SHA256: 23bc0649149f6302c6dcba60b956a6702954e6777591d95a885635b6a1eefec0
+SHA512: 7e8cfa3fe7843089264dfc86ec79e1442d4f95a2909327e0bcc8756af0a047480419d3de19b2132c47b68b33207c17d8b04e7e2522c82708f9ccd236da5ead19
+Homepage: https://ascensionlinux.org
+Description: Ascension asztali widgetek
+ A rendszer saját widgetei: a körkijelzők (processzor, memória, lemez,
+ hálózat), az óra időjárással, a rendszerbemutató, a frissítéskezelő, és
+ az Aegis AI asszisztens ablaka.
+ .
+ Mindegyik a mért adathoz illő ábrázolást használ — a memória oszlopokat,
+ a hálózat görbét, a lemez gyűrűt —, nem egyforma körökkel jeleníti meg a
+ különböző természetű adatokat.
+
+Package: ascension-plasmoids
+Architecture: all
+Version: 26.04.202608122321
+Priority: optional
+Section: x11
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 348
+Depends: plasma-workspace
+Filename: pool/main/a/ascension-plasmoids/ascension-plasmoids_26.04.202608122321_all.deb
+Size: 45868
+MD5sum: 617cce41e8b53861368ee8cbe96b8a95
+SHA1: 75af4928da2ed610f5f4db06776d47a9f3eddea2
+SHA256: 18bef6ce27602547a3d51a10fbfbc7578b68ffe89c77ade6c21836c206e4483e
+SHA512: 19e20da22726fe9ebc60b2d38205867953f7ed8abaeacf605fb7a729855243cbdb926a4b49f707016d9b4fc5f491719b576b56bb9dfb2095e94ac6e2a33dbd0e
+Homepage: https://ascensionlinux.org
+Description: Ascension asztali widgetek
+ A rendszer saját widgetei: a körkijelzők (processzor, memória, lemez,
+ hálózat), az óra időjárással, a rendszerbemutató, a frissítéskezelő, és
+ az Aegis AI asszisztens ablaka.
+ .
+ Mindegyik a mért adathoz illő ábrázolást használ — a memória oszlopokat,
+ a hálózat görbét, a lemez gyűrűt —, nem egyforma körökkel jeleníti meg a
+ különböző természetű adatokat.
+
+Package: ascension-settings
+Architecture: all
+Version: 26.04.202608110056
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 80
+Depends: ascension-branding
+Filename: pool/main/a/ascension-settings/ascension-settings_26.04.202608110056_all.deb
+Size: 5120
+MD5sum: cd40d6cffc2f0d1c4a792418fe643719
+SHA1: 44f75e5be748e6d8c98f25dc5cf6f5e77da7ef27
+SHA256: 1d4fe321be3f72dffe4834859f1339d48746467938b6ec19438319dc404cb6a2
+SHA512: 9b7a28342e3e3e5d6feda392df5e3c32210186116ea51c947b1813f3b6d08a51e0b1108cbe84c1a5d79c7ebf5bc02d3a97d12512eff0e254a56cf9c1b51e830b
+Homepage: https://ascensionlinux.org
+Description: Ascension alapbeállítások
+ A rendszer alapértelmezései: a Plasma és a KWin beállításai, a
+ billentyűzet- és képernyőzár-alapok, a Kvantum stílus kiválasztása, és a
+ társítások (például a webcímeké).
+ .
+ Ezek a fájlok az /etc alatt vannak és beállításfájlként vannak jelölve:
+ ha módosítod őket, a frissítés NEM írja felül némán a munkádat, hanem
+ megkérdez.
+
+Package: ascension-settings
+Architecture: all
+Version: 26.04.202608110058
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 80
+Depends: ascension-branding
+Filename: pool/main/a/ascension-settings/ascension-settings_26.04.202608110058_all.deb
+Size: 5110
+MD5sum: 767fd9b5e996e9e867d9a1f27fb07fa1
+SHA1: 243dc8c0f8512f0bf880e2478d077313b73fa581
+SHA256: 1f76346221e240c9db49cfdd2a0f153d0852aaeb1d966bfdcaac887c36701be2
+SHA512: 3c48ef11e88781a7e6e6862329b18a882b63c24d7aa4c4d34f69d6888c84ef330171234e951cd12803c06ddc05f6e16bcf1c1def400f6a9aae38ee4c077f3081
+Homepage: https://ascensionlinux.org
+Description: Ascension alapbeállítások
+ A rendszer alapértelmezései: a Plasma és a KWin beállításai, a
+ billentyűzet- és képernyőzár-alapok, a Kvantum stílus kiválasztása, és a
+ társítások (például a webcímeké).
+ .
+ Ezek a fájlok az /etc alatt vannak és beállításfájlként vannak jelölve:
+ ha módosítod őket, a frissítés NEM írja felül némán a munkádat, hanem
+ megkérdez.
+
+Package: ascension-settings
+Architecture: all
+Version: 26.04.202608110118
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 80
+Depends: ascension-branding
+Filename: pool/main/a/ascension-settings/ascension-settings_26.04.202608110118_all.deb
+Size: 5110
+MD5sum: face50bc87d4a7cb1e3c583951428284
+SHA1: 275d3db531dd6222a47d14a4aef482db0be0a686
+SHA256: 3dd57974bbc5d003f34b7fa8e6c0577d77b0ef6b831bf2c2f9e6c1844e249855
+SHA512: 15b299246b4fba11cc6b17df44f0b225b1e7fd2d4101bddc5618b777dd1af10e34e89e7b107f50bff55e6fafe6a3e852b98143efa5286344756df3d5165fc692
+Homepage: https://ascensionlinux.org
+Description: Ascension alapbeállítások
+ A rendszer alapértelmezései: a Plasma és a KWin beállításai, a
+ billentyűzet- és képernyőzár-alapok, a Kvantum stílus kiválasztása, és a
+ társítások (például a webcímeké).
+ .
+ Ezek a fájlok az /etc alatt vannak és beállításfájlként vannak jelölve:
+ ha módosítod őket, a frissítés NEM írja felül némán a munkádat, hanem
+ megkérdez.
+
+Package: ascension-tools
+Architecture: all
+Version: 26.04.202608130051
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 444
+Depends: bash, curl, coreutils, python3, whisper.cpp, pulseaudio-utils, wl-clipboard, libnotify-bin
+Filename: pool/main/a/ascension-tools/ascension-tools_26.04.202608130051_all.deb
+Size: 86246
+MD5sum: e16a79cca1e89e1c389909ead64c7fd2
+SHA1: 675aecdbc268d136f0cd621a108408195dc2ea80
+SHA256: fe9a5f2c6146fafef50763c3808057fd49d6643a2390eaba21c7a7692bde06f0
+SHA512: c537a5e63cf810c40201f650815412d037968ec6877d6f3374110415a3ab4b871639ec8cf56c9bf1a030936cba2b46aa1e961ed62d06a34275d7b860b70d810c
+Homepage: https://ascensionlinux.org
+Description: Ascension rendszerparancsok
+ A rendszer saját parancsai: profilváltás (ascension-role), az AI
+ asszisztens beállítása (ascension-ai), beszédhangok kezelése
+ (ascension-voice), diktálás a gépen (ascension-listen), a
+ videokártya-meghajtó hardver szerinti telepítése (ascension-nvidia), és
+ a rendszerfrissítés (ascension-update).
+ .
+ Az asszisztens eszközei is itt vannak (aegis-tools, aegis-admin): ezek
+ határozzák meg, mit tehet meg az AI a gépen, és mihez kér engedélyt.
+ .
+ A beszédfelismerő (whisper.cpp) FÜGGŐSÉG, nem ajánlás: enélkül a widget
+ mikrofongombja hibaüzenetet ad. Egy ajánlott csomagot az apt a MÁR
+ TELEPÍTETT csomagok frissítésekor nem tesz fel, tehát a diktálás egy
+ frissítéssel sosem jutna el a meglévő gépekre. A csomag 5 MB; a 488 MB-os
+ felismerő modell viszont NEM része, azt a widget kéri le, ha kell.
+ .
+ Tartalmazza a kfmclient áthidalót is, ami nélkül a Plasma 6 alatt a
+ fájl- és webcím-megnyitás egy része némán meghiúsulna.
+
+Package: ascension-tools
+Architecture: all
+Version: 26.04.202608130101
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 448
+Depends: bash, curl, coreutils, python3, whisper.cpp, pulseaudio-utils, wl-clipboard, libnotify-bin
+Filename: pool/main/a/ascension-tools/ascension-tools_26.04.202608130101_all.deb
+Size: 86636
+MD5sum: 006025370228e0d62ec3d286e46a984f
+SHA1: e23084c4d3ead392f3f20f7a99bb68c3da3f0ed6
+SHA256: 7d7569045990ac245ccd9c667f02e087ffe8eba6c733e5f37b9124d1ace4ff55
+SHA512: f0fa3becf54f7476aea07f6dab0f51ebe0e5d3fc516c3a0e5be1f9821671417fd0a12b37ca5d262b7b707762b9668eacd1f1abba6d028d6cf79fbddf6add6e31
+Homepage: https://ascensionlinux.org
+Description: Ascension rendszerparancsok
+ A rendszer saját parancsai: profilváltás (ascension-role), az AI
+ asszisztens beállítása (ascension-ai), beszédhangok kezelése
+ (ascension-voice), diktálás a gépen (ascension-listen), a
+ videokártya-meghajtó hardver szerinti telepítése (ascension-nvidia), és
+ a rendszerfrissítés (ascension-update).
+ .
+ Az asszisztens eszközei is itt vannak (aegis-tools, aegis-admin): ezek
+ határozzák meg, mit tehet meg az AI a gépen, és mihez kér engedélyt.
+ .
+ A beszédfelismerő (whisper.cpp) FÜGGŐSÉG, nem ajánlás: enélkül a widget
+ mikrofongombja hibaüzenetet ad. Egy ajánlott csomagot az apt a MÁR
+ TELEPÍTETT csomagok frissítésekor nem tesz fel, tehát a diktálás egy
+ frissítéssel sosem jutna el a meglévő gépekre. A csomag 5 MB; a 488 MB-os
+ felismerő modell viszont NEM része, azt a widget kéri le, ha kell.
+ .
+ Tartalmazza a kfmclient áthidalót is, ami nélkül a Plasma 6 alatt a
+ fájl- és webcím-megnyitás egy része némán meghiúsulna.
+
+Package: ascension-tools
+Architecture: all
+Version: 26.04.202608130106
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 448
+Depends: bash, curl, coreutils, python3, whisper.cpp, pulseaudio-utils, wl-clipboard, libnotify-bin
+Filename: pool/main/a/ascension-tools/ascension-tools_26.04.202608130106_all.deb
+Size: 86618
+MD5sum: d6663cb86acca14dd931645924a6b80b
+SHA1: 82119c8604923343eaa1e678200a2e8349bbd291
+SHA256: 561b42488e6bbf73ecbd3d3c9db5acdfbeac0d974accb8cc24954abc76b4fc33
+SHA512: cd7154abf5724c54283c3be0c718432484f5ef63ba395f3b459e8ef55e06fa4188df5bdb9481553e7c3236015cfe036468ffdc56141627a79ac4407d245ae161
+Homepage: https://ascensionlinux.org
+Description: Ascension rendszerparancsok
+ A rendszer saját parancsai: profilváltás (ascension-role), az AI
+ asszisztens beállítása (ascension-ai), beszédhangok kezelése
+ (ascension-voice), diktálás a gépen (ascension-listen), a
+ videokártya-meghajtó hardver szerinti telepítése (ascension-nvidia), és
+ a rendszerfrissítés (ascension-update).
+ .
+ Az asszisztens eszközei is itt vannak (aegis-tools, aegis-admin): ezek
+ határozzák meg, mit tehet meg az AI a gépen, és mihez kér engedélyt.
+ .
+ A beszédfelismerő (whisper.cpp) FÜGGŐSÉG, nem ajánlás: enélkül a widget
+ mikrofongombja hibaüzenetet ad. Egy ajánlott csomagot az apt a MÁR
+ TELEPÍTETT csomagok frissítésekor nem tesz fel, tehát a diktálás egy
+ frissítéssel sosem jutna el a meglévő gépekre. A csomag 5 MB; a 488 MB-os
+ felismerő modell viszont NEM része, azt a widget kéri le, ha kell.
+ .
+ Tartalmazza a kfmclient áthidalót is, ami nélkül a Plasma 6 alatt a
+ fájl- és webcím-megnyitás egy része némán meghiúsulna.
+

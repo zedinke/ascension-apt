@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: apex
+Components: main apps
+Date: Fri, 14 Aug 2026 12:39:14 +0000
+Description: Ascension Linux frissítési csomagtároló
+Label: Ascension Linux
+Origin: Ascension Linux
+Suite: apex
+MD5Sum:
+ 4900b4d9e82e1193418f3a11ac5f6b52             8870 Release
+ 93ff8101aba187a976014bd161182f35            12900 apps/binary-amd64/Packages
+ cbeaf557ecddf7b4160a0bf41bb57506             3530 apps/binary-amd64/Packages.gz
+ 01de8bc33fd8dee8c1529a700fd9b6aa               97 apps/binary-amd64/Release
+ 9957d2048fbc40a5a8597d8480a5c08a             5146 apps/dep11/Components-amd64.yml
+ 631cd8c0fcb2fcd830591a73088e1870             1757 apps/dep11/Components-amd64.yml.gz
+ e960e56021a3f3e7ba65d1c7ec4a6a21            40960 apps/dep11/icons-128x128.tar
+ ff73e7830f06a3b1824c65a4cc779ba5            36953 apps/dep11/icons-128x128.tar.gz
+ e9c59206abe2647123fb96193880d227           102400 apps/dep11/icons-128x128@2.tar
+ 03edc177d1366cf573bea58b9a8c1035            93545 apps/dep11/icons-128x128@2.tar.gz
+ e930e866a77eca2a2e665304222a07d4            10240 apps/dep11/icons-48x48.tar
+ 35fb03b1e1265805c972ea3a4c73efba             7503 apps/dep11/icons-48x48.tar.gz
+ 09883f661e3e0f6946c2e1313bbf5773            20480 apps/dep11/icons-64x64.tar
+ 673a8f339dcde7c048a590bd803e71f7            14386 apps/dep11/icons-64x64.tar.gz
+ 67fcd510d8b7afee5b3260198f0a7c0b            40960 apps/dep11/icons-64x64@2.tar
+ 3518e0f9f5a5e4b71314d9d69b468af4            30947 apps/dep11/icons-64x64@2.tar.gz
+ 7e3babbc06dd25ff742d44e7cf67fc34            30162 main/binary-amd64/Packages
+ c546fc55d4661cfe9c4cbd62994afe45             8003 main/binary-amd64/Packages.gz
+ d8c3392fbf435caee20a772ca7bc5448               97 main/binary-amd64/Release
+SHA1:
+ f3b6dff08fe0a401e9ecb4847139ab7d043ee847             8870 Release
+ 4b25cedc0a38ea4990441672f507c7d56f5be759            12900 apps/binary-amd64/Packages
+ 9027ede87043c63ba536d7ce370d902200a0eda1             3530 apps/binary-amd64/Packages.gz
+ ec4651fd46f0533bde15d56b9d72a2253a81bf23               97 apps/binary-amd64/Release
+ 7b5a3f4ac82c17f7cb6bb75bd3b26a0d9a15beee             5146 apps/dep11/Components-amd64.yml
+ a31ccd50d630097699266b97783556129949cb6a             1757 apps/dep11/Components-amd64.yml.gz
+ eccb230c584f4c5db2fa2821908c57c4df050028            40960 apps/dep11/icons-128x128.tar
+ 892ff4bf23ffba0c1210a0de30e2711e16060914            36953 apps/dep11/icons-128x128.tar.gz
+ 2cd7a828ae3436af080cdb70d4b89058334ec2b0           102400 apps/dep11/icons-128x128@2.tar
+ 86013ace59162931dab6170cf122a5958208f28c            93545 apps/dep11/icons-128x128@2.tar.gz
+ 66956d547e03e6faefcd9f33275883fe0046ae8b            10240 apps/dep11/icons-48x48.tar
+ 1fac07b6fab5457c9b6a103d1d9299bc62d549db             7503 apps/dep11/icons-48x48.tar.gz
+ 405f0c167529d0f05f74fb86a0686901bf859860            20480 apps/dep11/icons-64x64.tar
+ 263128508a201c26f76bfcac552e8c098eb89848            14386 apps/dep11/icons-64x64.tar.gz
+ 3f719f8349664a6c8958b029e5fff9ef7e3232fe            40960 apps/dep11/icons-64x64@2.tar
+ 3258dc7148b3e10ee5139312da8298b860d8cdf8            30947 apps/dep11/icons-64x64@2.tar.gz
+ 83522967c7d7d8f1989636b0c50db1e46b981d01            30162 main/binary-amd64/Packages
+ ad4dd042879f7219aaf191e4e3af6971ecc648a5             8003 main/binary-amd64/Packages.gz
+ b2ecca4506e587d49c9ac60e571b7afec6690b39               97 main/binary-amd64/Release
+SHA256:
+ 7eb2b2742798a2c77cc1f277d8ea9af6d939f171e22fba5409d45ad671444f24             8870 Release
+ ef5e46b102db6d851af8fe73abf01a3a3675a2c41afed2e14e7166934f21e726            12900 apps/binary-amd64/Packages
+ 5c1e46663a78509e0e0081b79181bdf29658e89d870879eaf2bf9cf99c6da83f             3530 apps/binary-amd64/Packages.gz
+ 1ea92c33738b047cf587e8ddb527ffeae70577e2853d723460b435ac93831b99               97 apps/binary-amd64/Release
+ da569e53d33918dcf8818c1efc37820d71fed4e8e8ada766c337d63dec8ed174             5146 apps/dep11/Components-amd64.yml
+ db674ee6e4b49008dbf40be29e7323955be1f4c8a379bd3619d0dc122086393e             1757 apps/dep11/Components-amd64.yml.gz
+ 640bc83da46d6053f028d2d441807e40716c20ceebd1b53a885f6ed971bfff96            40960 apps/dep11/icons-128x128.tar
+ b011f19e1ef2aaa881211e9f633da6c2c0dbbb3c27086299ed1a711863d51295            36953 apps/dep11/icons-128x128.tar.gz
+ 0eff281ebc33882f318bd30153bf9537dcce90af8a0f5d2617519b63cc7bfb6e           102400 apps/dep11/icons-128x128@2.tar
+ 6ec7073c6d6499f67e0e01d3aaeed642be36e6efbf44da1a29bee083dcde8966            93545 apps/dep11/icons-128x128@2.tar.gz
+ c1318fde648797ff4733882814756d20dd7358c5350d67a216e767f7291b027c            10240 apps/dep11/icons-48x48.tar
+ a1d28aa0f91aaa929a057a254dec56a8a07698d5d2c5ba2a399b935614542cac             7503 apps/dep11/icons-48x48.tar.gz
+ 710f8a69bbf5426ad207745203a204e39cea7beadef1a8f81beb2d4d25a27129            20480 apps/dep11/icons-64x64.tar
+ 6737229492c3ac2b3050c802198f9f33082516f0b990153fc015eeaf9315d18a            14386 apps/dep11/icons-64x64.tar.gz
+ e61a554d9f86b3d8a84fe946f06673ce9c4ec55216d7381d99e7f149456e0e72            40960 apps/dep11/icons-64x64@2.tar
+ d9192537dffd34fa3143cee31778a88f889678d2ce92314fe2d209cd0251eb88            30947 apps/dep11/icons-64x64@2.tar.gz
+ b34e0aac4ef4f1363ac1cfd9cc71e15e47957fc2b0bf9be3c73166568014db23            30162 main/binary-amd64/Packages
+ 7d38738828654d0cbf5a61e6e28429572c5989d5218a452634b97b729c395280             8003 main/binary-amd64/Packages.gz
+ 43a228b4bf080d853946a31a4e4d815bb4e891ad6290bf4aab98d7633d24949c               97 main/binary-amd64/Release
+SHA512:
+ 69ae1bc5897e9e5cc748b637d5a1971f27a2eb6ad0b0084a1d8faadc34dbeff271a6550601344ccc3f54bcd779c88af8eb4581b40afa2a4278b52d574977752d             8870 Release
+ 15fe7a7b20d862faa0858ce6cd7ebd34f3d11f8bfc98195fee2df11c4e873b672d46a1ceb77373b39b22b9d9111554adcdfb70f9bcdb2b512c4c918b3539e638            12900 apps/binary-amd64/Packages
+ 0111bcc16bac8af24199ff015e3331e55621d2474289605986ec2e31bccb35581c6eaf5255f2681e59ad89c195c99c23688e0cfb168e35335ca51b2351a640e3             3530 apps/binary-amd64/Packages.gz
+ b989a5ebf655e31b218ecb6fb17c476488cdbccfb4182f33bf0b35295de6e89725ab685450e12a5314d11f288acf17c142c52480bffdb203720f85f05645be85               97 apps/binary-amd64/Release
+ d6ed32d1e8c8f0e0bd72682a57f56dbafe0aa035be16b3607b5d681d359134c3ceb29b7a2e36baf500163b3547e7b84360be184c87989ad5c98ddd3dde4ee27c             5146 apps/dep11/Components-amd64.yml
+ 9e6bbefb03eb67b016f019518ea32b174b548ffb1cc7f9ae5dad4b50e9d7801f3fdb46799165e9ccd18f07a455868884617047ddc3641d71ee7bdba9bd43503e             1757 apps/dep11/Components-amd64.yml.gz
+ 563247ddd026b405038f8aa3887608f594841201b659cedc251104f646f18a5ba61ed34fa4e69fa8b2b6fa29a3a6d44a12b2ded149d918445ddf060dc9f17a2d            40960 apps/dep11/icons-128x128.tar
+ fef6db3bdd2765917656d882896097ca4e7070b559166ac27fe972121e1b43609eced9b6cf242794bb3311241f3b34181eaa3888cf4cb5000b6fc76784abca9c            36953 apps/dep11/icons-128x128.tar.gz
+ 9566530d7c419a02b827939fa842cabd53849dcd8b36ee1477b1aec910df6c7f3da1a47bed4846429efda82e520598bde7ec412558f9b563b3e27a54479335c9           102400 apps/dep11/icons-128x128@2.tar
+ 54720148a9ba1b0534650f545b3fc5ac70135a2fc328dc22668dca3b6f3ade07d02532c7676c3f5b8d99ab9cd11609a7801780c7b3f44764a81835a83bd535dd            93545 apps/dep11/icons-128x128@2.tar.gz
+ f7dbfb34da68a187105288e58a1fe1df5657503862048e40143fd45c1dc63b7151fdf66071c8f38a994642d9e2cc220663fb1d464aa5965b97d15e33c9c9ce4b            10240 apps/dep11/icons-48x48.tar
+ 4ec220c14c4761e5c11ba4c34a2864b56155dac44cd2d7f9c73133127211730af46b42a493ef64ce4717d201988ce208a9d8e146a4e4ba984a7e72e5c2bf6ed4             7503 apps/dep11/icons-48x48.tar.gz
+ 8de8e7787eeded87f7dd3edfe7660a35484a3c67eb7361e853432c2a4efabf0e20883bdfdbcb9201e21c4282a8f236892f48127c696e4b323fb570bd9be157ac            20480 apps/dep11/icons-64x64.tar
+ 3155db7f92f8bb5ef9edfc84644a3e1b9eeb763446e03114752ac51c98258ee48dd9913036121885c30d8822cdd9152a880d2a8f7ab334d2ced6af5130e9a9fc            14386 apps/dep11/icons-64x64.tar.gz
+ 34e17e5f5c15968c996d9445f15621edc7774422d6e8c7e4f951458688fff9861dcddf24d68dac737bc5c33a053d8f2eed2622c376ae2065037558a08509bb68            40960 apps/dep11/icons-64x64@2.tar
+ 510645318fb6861aa7f41682b20e82adcb1551838a675ca7b472d66411b235b89bfaf7aabda6f3a8c2ff6e71d9597a0724e3c4e57dd4fa26ef8a75f1561f0642            30947 apps/dep11/icons-64x64@2.tar.gz
+ 078acfad48dbb95290cc72872af8fe582f93f904bef88449a70fd64237be3328601ba7ff5c97100fa22ad78c6c0cb14bb7aa5486206d7ed4a382f5a69613cc02            30162 main/binary-amd64/Packages
+ f51103a43cc1e8b5ace52d40051c47a3a37a56591a6ed6ecf612ac9916d07f04cf44b99e6ab89e9d2450610a8a1c7923a0cfc0ab2290c7c722f24ada5704ba30             8003 main/binary-amd64/Packages.gz
+ 238d4d814897ef690f83828e0445a1dfd5f018becd4578647fd0978f79811acb65a92b20d616bf66798d5a947b06cde5a5b1cf3079af79ba5cfd7b10811b3f50               97 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQzVv/VuVJhivM9J9eGHhqwlUYhlQUCan8McgAKCRCGHhqwlUYh
+lQYMAP9v2RZobK0ZK+qe1lHme/mKSOvxWkwsE8zR9/64HBAlcQD9Gzhl+e/3EoZx
+zSIUaEOXjxg+qbbZeoKMuZSTHvU0jg0=
+=0FLz
+-----END PGP SIGNATURE-----

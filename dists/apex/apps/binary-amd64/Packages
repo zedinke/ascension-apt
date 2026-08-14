@@ -1,0 +1,266 @@
+Package: ascension-epic
+Architecture: all
+Version: 1.0.0-202608141129
+Priority: optional
+Section: games
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 108
+Depends: bash, coreutils, curl, wine, winetricks, cabextract
+Recommends: konsole
+Filename: pool/apps/a/ascension-epic/ascension-epic_1.0.0-202608141129_all.deb
+Size: 35114
+MD5sum: 4ef4d464cec4b353c350918db27490e9
+SHA1: de0f0b4b5c574042987af8cb5ad68c1ad4ba7b75
+SHA256: 03aa308e53484057fb2ddfd1715030cc0d0dd924b90499b96f5403e0e649348f
+SHA512: b5df8f893b08f4bcbeb4e0d939153d98710d903a3f075cee470090a5a898d9e1a0476987fa252d3eb75a24c40309f12fc7a229c256daafbc47c8ede4bf49bef6
+Homepage: https://ascensionlinux.org
+Description: Epic Games Store Wine alatt
+ Üzembe helyezi az Epic Games Store-t: létrehozza a Wine prefixet,
+ felteszi a szükséges betűkészleteket, majd letölti és telepíti az Epic
+ hivatalos telepítőjét. A későbbi indítások közvetlenül a launchert
+ nyitják meg.
+ .
+ Magát az Epic Games Store-t NEM tartalmazza: azt az első indításkor
+ tölti le az Epic saját szerveréről, mert a szoftver zárt, és a
+ terjesztésére nincs engedélyünk. Az első indításhoz ezért
+ internetkapcsolat kell, és néhány percig tart.
+ .
+ A Wine prefix és a játékok alapértelmezés szerint a felhasználó Games
+ könyvtárába kerülnek. Kis rendszerlemez mellett ez átállítható az
+ /etc/ascension/epic.conf fájlban (ASCENSION_GAMES_DIR).
+ .
+ A 32 bites Vulkan-könyvtárak NEM függőségei: a csomagnevük a
+ videokártya-meghajtó verziójától függ, és egy AMD gépen az NVIDIA
+ változat fölösleges volna. A program futáskor ellenőrzi, és ha
+ hiányoznak, kiírja a pontos telepítő parancsot.
+
+Package: ascension-epic
+Architecture: all
+Version: 1.1.0-202608141236
+Priority: optional
+Section: games
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 112
+Depends: bash, coreutils, curl, wine, winetricks, cabextract
+Recommends: konsole
+Filename: pool/apps/a/ascension-epic/ascension-epic_1.1.0-202608141236_all.deb
+Size: 37258
+MD5sum: 89ec3dc7927eb2230fedae4703fcadce
+SHA1: d7c75575dd816cab11f09062e0eeda6a09dba3ba
+SHA256: 9f5577abed3017a6160ca07438b8a984ae54f0c79697e35f773b7ca1c2a13cbe
+SHA512: bf7039db869a9b6a72efa8d2f1e6f8a0e0a7d021f41f0e07523a4382a301abf30b2aecee6b7186206ee7ddfa8a49f563b670ea09ae306285bf1c0f46a5db6871
+Homepage: https://ascensionlinux.org
+Description: Epic Games Store Wine alatt
+ Üzembe helyezi az Epic Games Store-t: létrehozza a Wine prefixet,
+ felteszi a szükséges betűkészleteket, majd letölti és telepíti az Epic
+ hivatalos telepítőjét. A későbbi indítások közvetlenül a launchert
+ nyitják meg.
+ .
+ Magát az Epic Games Store-t NEM tartalmazza: azt az első indításkor
+ tölti le az Epic saját szerveréről, mert a szoftver zárt, és a
+ terjesztésére nincs engedélyünk. Az első indításhoz ezért
+ internetkapcsolat kell, és néhány percig tart.
+ .
+ Az Epic Online Services telepítését is elvégzi, ami a crossplayhez, a
+ teljesítményekhez és az overlayhez kell. Ez nem a telepítéskor történik:
+ a hozzá tartozó telepítőt a launcher tölti le az első önfrissítésekor,
+ ezért a soron következő indításnál kerül fel. Wine 11 szükséges hozzá —
+ a Wine 10 megtagadja a telepítőtől az emelt jogú folyamatot. A rendszer
+ ezért a WineHQ tárolójából telepíti a winehq-stable csomagot.
+ .
+ A Wine prefix és a játékok alapértelmezés szerint a felhasználó Games
+ könyvtárába kerülnek. Kis rendszerlemez mellett ez átállítható az
+ /etc/ascension/epic.conf fájlban (ASCENSION_GAMES_DIR).
+ .
+ A 32 bites Vulkan-könyvtárak NEM függőségei: a csomagnevük a
+ videokártya-meghajtó verziójától függ, és egy AMD gépen az NVIDIA
+ változat fölösleges volna. A program futáskor ellenőrzi, és ha
+ hiányoznak, kiírja a pontos telepítő parancsot.
+
+Package: ascension-epic
+Architecture: all
+Version: 1.1.0-202608141239
+Priority: optional
+Section: games
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 112
+Depends: bash, coreutils, curl, wine, winetricks, cabextract
+Recommends: konsole
+Filename: pool/apps/a/ascension-epic/ascension-epic_1.1.0-202608141239_all.deb
+Size: 36892
+MD5sum: 69f82b2167794c4b41c9237daa18c3f9
+SHA1: 414ac42e744a9b16f966e96ed6f1559f71f0be07
+SHA256: 4518ddf376ac850cc36cc1827f21f28ab909d5d95de44223db40a337907e402b
+SHA512: 11d6ce3445ad01a9f200979075c465b6d905b7eab76e0b161e289ea08db0e3cace633f5b407d6cb3e0549fd66573b23e2f1089f510ae5fa5ea1198e8a025f360
+Homepage: https://ascensionlinux.org
+Description: Epic Games Store Wine alatt
+ Üzembe helyezi az Epic Games Store-t: létrehozza a Wine prefixet,
+ felteszi a szükséges betűkészleteket, majd letölti és telepíti az Epic
+ hivatalos telepítőjét. A későbbi indítások közvetlenül a launchert
+ nyitják meg.
+ .
+ Magát az Epic Games Store-t NEM tartalmazza: azt az első indításkor
+ tölti le az Epic saját szerveréről, mert a szoftver zárt, és a
+ terjesztésére nincs engedélyünk. Az első indításhoz ezért
+ internetkapcsolat kell, és néhány percig tart.
+ .
+ Az Epic Online Services telepítését is elvégzi, ami a crossplayhez, a
+ teljesítményekhez és az overlayhez kell. Ez nem a telepítéskor történik:
+ a hozzá tartozó telepítőt a launcher tölti le az első önfrissítésekor,
+ ezért a soron következő indításnál kerül fel. Wine 11 szükséges hozzá —
+ a Wine 10 megtagadja a telepítőtől az emelt jogú folyamatot. A rendszer
+ ezért a WineHQ tárolójából telepíti a winehq-stable csomagot.
+ .
+ A Wine prefix és a játékok alapértelmezés szerint a felhasználó Games
+ könyvtárába kerülnek. Kis rendszerlemez mellett ez átállítható az
+ /etc/ascension/epic.conf fájlban (ASCENSION_GAMES_DIR).
+ .
+ A 32 bites Vulkan-könyvtárak NEM függőségei: a csomagnevük a
+ videokártya-meghajtó verziójától függ, és egy AMD gépen az NVIDIA
+ változat fölösleges volna. A program futáskor ellenőrzi, és ha
+ hiányoznak, kiírja a pontos telepítő parancsot.
+
+Package: ascension-studio-game-manager
+Architecture: amd64
+Version: 0.3.528-202608121441
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 76232
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/apps/a/ascension-studio-game-manager/ascension-studio-game-manager_0.3.528-202608121441_amd64.deb
+Size: 15658928
+MD5sum: 4ee02fd1bc2cfa6984a0c2b64ffcdc4c
+SHA1: 2e1e35d98996ceea6969b263be5a2ff15c09472a
+SHA256: 7fee8a25345c53dad34e62332ecdde818acbae68b3a957a5cb9950255f24a8c1
+SHA512: 33595fa3c91d13197ab6b7c5c6288d23b9302a8657998774072d62914e2f15faf6c9eed464b2c41b4a7969904ceacf1507b9750bf8269af7fc876cbea67fd410
+Homepage: https://ascensionlinux.org
+Description: Ascension Studio Game Manager — játékszerver-kezelő
+ Asztali kliens játékszerverek üzemeltetéséhez: szerverek indítása és
+ leállítása, beállítások, mentések, ütemezett feladatok és naplók egy
+ felületen. A gépeket a Manager készíti fel és tartja karban — nincs
+ szükség kézi SSH-munkamenetre vagy Linux-ismeretre hozzá.
+ .
+ A szervergépeken futó összetevők (ügynök, ütemező, központi API) külön
+ csomagok; ez itt a kezelőfelület.
+
+Package: ascension-studio-game-manager
+Architecture: amd64
+Version: 0.3.528-202608121951
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 76240
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/apps/a/ascension-studio-game-manager/ascension-studio-game-manager_0.3.528-202608121951_amd64.deb
+Size: 15659554
+MD5sum: 45604d7f187151db7730e84feacd9579
+SHA1: 0c0e24c650b9d9c262096e40b49e6863d5e94d4a
+SHA256: d9487dcf6c3980031264dd6cc4dd41c397bee81bb05fe423a37469fd85cced64
+SHA512: e7ef3ead0513a59362794c2c05ead31c69a0db773396d181989e7fd0dc97edc306f7f754c76e3e64fa342e45ea6fa0e39a94b93180b3648c7251fda022663f87
+Homepage: https://ascensionlinux.org
+Description: Ascension Studio Game Manager — játékszerver-kezelő
+ Asztali kliens játékszerverek üzemeltetéséhez: szerverek indítása és
+ leállítása, beállítások, mentések, ütemezett feladatok és naplók egy
+ felületen. A gépeket a Manager készíti fel és tartja karban — nincs
+ szükség kézi SSH-munkamenetre vagy Linux-ismeretre hozzá.
+ .
+ A szervergépeken futó összetevők (ügynök, ütemező, központi API) külön
+ csomagok; ez itt a kezelőfelület.
+
+Package: ascension-studio-game-manager
+Architecture: amd64
+Version: 0.3.528-202608122012
+Priority: optional
+Section: admin
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 76240
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/apps/a/ascension-studio-game-manager/ascension-studio-game-manager_0.3.528-202608122012_amd64.deb
+Size: 15659580
+MD5sum: 018bdeed474721047cf90ed765c6cee3
+SHA1: 6c8670069e23f2e545d3ccb4f8e4234a92f83e87
+SHA256: 24486246161b6ec3bc7b66d5c9872c76a7c148669eab7c2b124ee05496353c68
+SHA512: 83dff8baa247de18c4f5a86a271b21bc00f3120c3f25a9e567e61b772dc98428f5cacb30e03d60f2a1e277bc3eea48fea5c081a2c97a6002fd2329d03204b031
+Homepage: https://ascensionlinux.org
+Description: Ascension Studio Game Manager — játékszerver-kezelő
+ Asztali kliens játékszerverek üzemeltetéséhez: szerverek indítása és
+ leállítása, beállítások, mentések, ütemezett feladatok és naplók egy
+ felületen. A gépeket a Manager készíti fel és tartja karban — nincs
+ szükség kézi SSH-munkamenetre vagy Linux-ismeretre hozzá.
+ .
+ A szervergépeken futó összetevők (ügynök, ütemező, központi API) külön
+ csomagok; ez itt a kezelőfelület.
+
+Package: ascension-studio
+Architecture: amd64
+Version: 0.1.1-202608121951
+Priority: optional
+Section: video
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 48920
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/apps/a/ascension-studio/ascension-studio_0.1.1-202608121951_amd64.deb
+Size: 10024788
+MD5sum: 5700f2601a1f7e471870d28f3c6f41c6
+SHA1: 672f8367187f34c62033b9ccb74d86c2d1443fc5
+SHA256: 7410d5e8650b8c488eb0745dab4c3ea076355742819dca3b1b2817fded0f6eff
+SHA512: 22696b0e2faab5468afca486de62868eb617371bc9f45d494ea6790cd09a7e4cf34b7022180e9cbfb21f216b18139ff6ed1e47cf2d3badc44c85c2141d0eaaab
+Homepage: https://ascensionlinux.org
+Description: Ascension Studio — streamer társalkalmazás
+ Egy felület a streameléshez: a jelenetek, a hang, a csatornák és a chat
+ egy helyen. Az OBS-t nem váltja ki, hanem vezérli — külön folyamatként,
+ obs-websocketen keresztül —, így a meglévő OBS-beállításaid érintetlenek
+ maradnak.
+ .
+ A többcsatornás adás az ascension-multirtmp OBS-bővítmény dolga; ez a
+ csomag nem tartalmazza.
+
+Package: ascension-studio
+Architecture: amd64
+Version: 0.1.1-202608122017
+Priority: optional
+Section: video
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 48920
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/apps/a/ascension-studio/ascension-studio_0.1.1-202608122017_amd64.deb
+Size: 10024824
+MD5sum: cd11e2b176b5df6efab0a7bb3793da44
+SHA1: a52bf5074c7786ab74ab53987363792a256507e1
+SHA256: 4e44bae10581933f89ce8cd027e91d1af2c4f43f35c4183222d72f126f8149de
+SHA512: ce451b0f55ea6210a1807aa4f98ea39bf05d52f54e42f976874d2667eabbb90b3ae292c478f8b68daee1b6af8ff01de6e57bf14ef0ee4d19154d1c1b1f577801
+Homepage: https://ascensionlinux.org
+Description: Ascension Studio — streamer társalkalmazás
+ Egy felület a streameléshez: a jelenetek, a hang, a csatornák és a chat
+ egy helyen. Az OBS-t nem váltja ki, hanem vezérli — külön folyamatként,
+ obs-websocketen keresztül —, így a meglévő OBS-beállításaid érintetlenek
+ maradnak.
+ .
+ A többcsatornás adás az ascension-multirtmp OBS-bővítmény dolga; ez a
+ csomag nem tartalmazza.
+
+Package: ascension-studio
+Architecture: amd64
+Version: 0.1.1-202608122024
+Priority: optional
+Section: video
+Maintainer: Ascension Linux <repo@ascensionlinux.org>
+Installed-Size: 49252
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/apps/a/ascension-studio/ascension-studio_0.1.1-202608122024_amd64.deb
+Size: 10113322
+MD5sum: eb38200905061953fcd2e9967b90b361
+SHA1: b6b51150d9629e9cf09daa9bbc9e05f55d6cc40e
+SHA256: dc6783a1017fb43be9c7335d3440751a73fa71458d5ebeb822d6c2cadd1060c4
+SHA512: 45db7f74b0f2f1fd051fec6829eb274e9bd02a9f61f20469b8d17098b33f7dbab949d6d93bdb36eb4d8be3fa1e66a4d1716833eefa707ddfc7b8908c3a646154
+Homepage: https://ascensionlinux.org
+Description: Ascension Studio — streamer társalkalmazás
+ Egy felület a streameléshez: a jelenetek, a hang, a csatornák és a chat
+ egy helyen. Az OBS-t nem váltja ki, hanem vezérli — külön folyamatként,
+ obs-websocketen keresztül —, így a meglévő OBS-beállításaid érintetlenek
+ maradnak.
+ .
+ A többcsatornás adás az ascension-multirtmp OBS-bővítmény dolga; ez a
+ csomag nem tartalmazza.
+
